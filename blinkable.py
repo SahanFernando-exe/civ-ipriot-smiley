@@ -1,6 +1,5 @@
 from abc import ABC, abstractmethod
 
-
 class Blinkable(ABC):
     """
     We can use an Abstract Base Class (ABC) to create an interface.
